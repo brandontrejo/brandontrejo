@@ -1,7 +1,7 @@
 Hi 👋 My name is Brandon Trejo
 ==============================
 
-Full Stack Web Developer
+Senior Web Developer
 ------------------------
 
 With over 9 years of experience developing full-stack web applications, I have led teams from design to production. My expertise includes architecting and transitioning existing legacy stacks, building and maintaining backend services, REST APIs, admin panels, and internal tools. I have been fortunate to work primarily with startup teams where one can step outside defined roles. Building projects from the ground up, sometimes as the only web engineer, has led me to be self-sufficient. I am passionate about continuing to grow as an engineer and am excited to explore new opportunities.
